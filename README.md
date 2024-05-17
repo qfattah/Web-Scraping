@@ -2,7 +2,7 @@
 
 This project aims to scrape data from the [VGChartz](https://www.vgchartz.com/) website to analyze and visualize the sales and release dates of PlayStation and Xbox games. The project involves web scraping, data pre-processing, and various visualizations to provide insights into the gaming industry.
 
-You can review the code [VGCharts_Web_Scraping](https://github.com/qfattah/Web-Scraping/blob/master/VGcharts_PS_Xbox_Scrape.ipynb)
+You can review the code here: [VGCharts_Web_Scraping](https://github.com/qfattah/Web-Scraping/blob/master/VGcharts_PS_Xbox_Scrape.ipynb)
 
 ## Table of Contents
 - [Introduction](#introduction)
