@@ -31,7 +31,7 @@ Install the required libraries using pip:
 ```bash
 pip install requests beautifulsoup4 pandas tqdm numpy matplotlib seaborn
 ```
-## Web Scraping
+## Web Scraping Code Sections
 
 Defining the URL: The URL of the website to scrape.
 Requesting a Response: Requesting a response from the URL to get the HTML data.
